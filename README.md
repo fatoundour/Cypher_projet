@@ -11,6 +11,9 @@ Auteurs :
 
 Année universitaire : 2025–2026
 
+Ce projet académique propose une étude comparative des langages Cypher 5, Cypher 25 et SQL, ainsi que de la bibliothèque Graph Data Science (GDS), à travers l'analyse de réseaux de transport aérien.
+
+À partir de données réelles, l'étude explore différentes approches de parcours de graphes, de recherche de plus courts chemins et d'exécution de requêtes complexes. Elle vise à évaluer leurs performances, leurs limites et leurs capacités d'optimisation dans les environnements Neo4j et PostgreSQL.
 
 # Articles scientifiques de référence
 
@@ -23,6 +26,13 @@ indiqués ci-dessous:
 
 - https://neo4j.com/blog/developer/solve-hard-graph-problems-with-cypher-25/
 
+## Technologies utilisées
+
+- **Python** : préparation, nettoyage et intégration des données.
+- **Neo4j** : modélisation et exploitation des bases de données orientées graphes.
+- **Cypher 5 et Cypher 25** : interrogation et parcours des graphes.
+- **Graph Data Science (GDS)** : exécution d'algorithmes de graphes.
+- **PostgreSQL / SQL** : modélisation relationnelle et requêtes récursives.
 
 # Contraintes d'installation
 
